@@ -6,5 +6,4 @@ These libraries are designed to serve C++ developers and were built on top of th
 
 More information can be found at [ocl.nekernel.org](ocl.nekernel.org).
 
-##### Copyright (c) 2025 Amlal El Mahrouss & OCL Authors, Licensed under BSL 1.0
-
+###### Copyright (c) 2023-2025 Amlal El Mahrouss & OCL Authors, Licensed under BSL 1.0
