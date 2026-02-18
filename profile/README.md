@@ -4,7 +4,7 @@
 
 The OCL provides free header-only C++ source libraries.
 
-These libraries are designed to serve C++ developers and were built on top of the Boost C++ libraries and C++ SL.
+The libraries are designed to serve C++ developers and are built on top of the Boost C++ Libraries and C++ SL.
 
 More information can be found at [ocl.nekernel.org](ocl.nekernel.org).
 
