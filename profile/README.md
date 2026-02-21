@@ -17,6 +17,6 @@ OCL is free software, but friendly to companies, if you find NeKernel to be usef
 ## Contributing:
 
 You're welcome to contribute!
-Join our [discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
+Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
 
 ###### Copyright (c) 2023-2026 Amlal El Mahrouss & NeKernel.org Authors, licensed under BSL 1.0
