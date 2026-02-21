@@ -10,7 +10,7 @@ More information can be found at [https://ocl.nekernel.org](ocl.nekernel.org) an
 
 ## Licensing and Supporting:
 
-OCL is free software, but friendly to companies, if you find NeKernel to be useful for your endeavors, please support the maintainers via GitHub Sponsors.
+Open C++ Libraries is free software, but if you find NeKernel to be useful for your endeavors, please support us via GitHub Sponsors.
 
 - [@amlel-el-mahrouss](https://github.com/sponsors/amlel-el-mahrouss)
 
