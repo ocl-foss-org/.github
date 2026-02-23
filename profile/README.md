@@ -5,7 +5,7 @@
 [![OCL.org - WWW](https://img.shields.io/static/v1?label=OCL.org&message=WWW&color=101010&logo=cplusplus&logoColor=fffffff)](https://ocl.nekernel.org)
 [![OCL.org - SRC](https://img.shields.io/static/v1?label=OCL.org&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://github.com/ocl-org/ocl)
 
-## Abstract:
+## Our Mission:
 
 The OCL provides free header-only C++ source libraries.
 
@@ -13,12 +13,12 @@ The libraries are designed to serve C++ developers and are built on top of the B
 
 More information can be found at [https://ocl.nekernel.org](ocl.nekernel.org) and [https://docs.ocl.nekernel.org](docs.ocl.nekernel.org).
 
-## Contributing:
+## Contributing (Join us!)
 
 You're welcome to contribute!
 Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
 
-## Other Projects:
+## Sister Projects:
 
 Open C++ Libraires (or just OCL) is maintained by people at @nekernel-org (Ne.org). Follow us there too!
 
