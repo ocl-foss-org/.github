@@ -1,4 +1,4 @@
-# The Open C++ Libraries.
+# The Open C++ Libraries.org
 
 ## Home of OCL.Fix and OCL.TProc!
 
@@ -20,13 +20,13 @@ Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate wit
 
 ## Support us:
 
-Open C++ Libraries is free software, but if you find it to be useful for your endeavors, please support us via GitHub Sponsors.
+Open C++ Libraries.org is free software, but if you find it to be useful for your endeavors, please support us via GitHub Sponsors.
 
 - [@amlel-el-mahrouss](https://github.com/sponsors/amlel-el-mahrouss)
 
 ## Other Projects:
 
-Open C++ Libraires (or just OCL) is maintained by people at @nekernel-org (Ne.org). Follow us there too!
+Open C++ Libraires.org (or just OCL) is maintained by people at @nekernel-org (Ne.org). Follow us there too!
 
 - [https://github.com/nekernel-org](https://github.com/nekernel-org)
 
