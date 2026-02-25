@@ -1,9 +1,11 @@
 # The Open C++ Libraries.org
 
+[![](https://dcbadge.limes.pink/api/server/RvCcseXX8h)]([https://discord.gg/RvCcseXX8h](https://discord.gg/RvCcseXX8h))
+
 ## Home of OCL.Fix and OCL.TProc!
 
-[![OCL.org - WWW](https://img.shields.io/static/v1?label=OCL.org&message=WWW&color=101010&logo=cplusplus&logoColor=fffffff)](https://ocl.nekernel.org)
-[![OCL.org - SRC](https://img.shields.io/static/v1?label=OCL.org&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://github.com/ocl-org/ocl)
+[![OCL.org - Web](https://img.shields.io/static/v1?label=OCL.org&message=Web&color=101010&logo=cplusplus&logoColor=fffffff)](https://ocl.nekernel.org)
+[![OCL.org - Src](https://img.shields.io/static/v1?label=OCL.org&message=Src&color=101010&logo=cplusplus&logoColor=fffffff)](https://github.com/ocl-org/ocl)
 
 ## Our Mission:
 
