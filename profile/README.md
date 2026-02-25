@@ -7,7 +7,7 @@
 [![OCL.org - Web](https://img.shields.io/static/v1?label=OCL.org&message=Web&color=101010&logo=cplusplus&logoColor=fffffff)](https://ocl.nekernel.org)
 [![OCL.org - Src](https://img.shields.io/static/v1?label=OCL.org&message=Src&color=101010&logo=cplusplus&logoColor=fffffff)](https://github.com/ocl-org/ocl)
 
-## Our Mission:
+## Our Mission!
 
 The OCL provides free header-only C++ source libraries.
 
@@ -15,7 +15,7 @@ The libraries are designed to serve C++ developers and are built on top of the B
 
 More information can be found at [https://ocl.nekernel.org](ocl.nekernel.org) and [https://docs.ocl.nekernel.org](docs.ocl.nekernel.org).
 
-## Contributing (Join us!)
+## Join us!
 
 You're welcome to contribute!
 Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
