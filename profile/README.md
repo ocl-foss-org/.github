@@ -6,6 +6,7 @@
 
 [![OCL.org - Web](https://img.shields.io/static/v1?label=OCL.org&message=Web&color=101010&logo=cplusplus&logoColor=fffffff)](https://ocl.nekernel.org)
 [![OCL.org - Src](https://img.shields.io/static/v1?label=OCL.org&message=Src&color=101010&logo=cplusplus&logoColor=fffffff)](https://github.com/ocl-org/ocl)
+[![Amlal - Sponsor](https://img.shields.io/static/v1?label=Amlal&message=Sponsor&color=101010&logo=cplusplus&logoColor=fffffff)](ttps://github.com/sponsors/amlel-el-mahrouss)
 
 ## OCL.org is Free. Forever.
 
@@ -19,12 +20,6 @@ More information can be found at [https://ocl.nekernel.org](ocl.nekernel.org) an
 
 You're welcome to contribute!
 Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
-
-## Support us:
-
-Open C++ Libraries.org is free software, but if you find it to be useful for your endeavors, please support us via GitHub Sponsors.
-
-- [@amlel-el-mahrouss](https://github.com/sponsors/amlel-el-mahrouss)
 
 ## Other Projects:
 
