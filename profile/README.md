@@ -24,6 +24,6 @@ Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate wit
 
 Open C++ Libraires.org (or just OCL) is maintained by people at @nekernel-org (Ne.org). Follow us there too!
 
-- [https://github.com/nekernel-org](https://github.com/nekernel-org)
+- [https://github.com/ne-foss-org](https://github.com/ne-foss-org)
 
 ###### Copyright (c) 2023-2026 Amlal El Mahrouss & Ne.org Authors, licensed under BSL 1.0
