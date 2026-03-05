@@ -8,7 +8,7 @@
 
 ## OCL.org is Free. Forever.
 
-The OCL provides free header-only C++ source libraries.
+The OCL provides free header-only C++ source libraries for system developers.
 
 The libraries are designed to serve C++ developers and are built on top of the Boost C++ Libraries and C++ SL.
 
