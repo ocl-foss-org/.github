@@ -14,7 +14,7 @@ The libraries are designed to serve C++ developers and are built on top of the B
 
 More information can be found at [https://ocl.nekernel.org](ocl.nekernel.org), [https://primer.ocl.nekernel.org](https://primer.ocl.nekernel.org), and [https://docs.ocl.nekernel.org](docs.ocl.nekernel.org).
 
-## Join us!
+## Join us:
 
 You're welcome to contribute!
 Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
