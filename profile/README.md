@@ -3,8 +3,8 @@
 [![](https://dcbadge.limes.pink/api/server/RvCcseXX8h)]([https://discord.gg/RvCcseXX8h](https://discord.gg/RvCcseXX8h))
 
 
-[![OCL.org - Web](https://img.shields.io/static/v1?label=OCL.org&message=Web&color=101010&logo=cplusplus&logoColor=fffffff)](https://ocl.nekernel.org)
-[![OCL.org - Src](https://img.shields.io/static/v1?label=OCL.org&message=Src&color=101010&logo=cplusplus&logoColor=fffffff)](https://git.ocl.nekernel.org/src)
+[![OCL.org - Web](https://img.shields.io/static/v1?label=OCL.org&message=WEB&color=101010&logo=cplusplus&logoColor=fffffff)](https://ocl.nekernel.org)
+[![OCL.org - Src](https://img.shields.io/static/v1?label=OCL.org&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://git.ocl.nekernel.org/src)
 
 ## OCL.org is Free. Forever.
 
