@@ -16,6 +16,8 @@ More information can be found at [https://ocl.nekernel.org](ocl.nekernel.org), [
 
 ## Join us:
 
+Please give us a follow or a star if you appreciate what we do!
+
 You're welcome to contribute!
 Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
 
