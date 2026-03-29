@@ -1,4 +1,4 @@
-# The Open C++ Libraries.
+# Open C++ Libraries
 
 [![](https://dcbadge.limes.pink/api/server/RvCcseXX8h)]([https://discord.gg/RvCcseXX8h](https://discord.gg/RvCcseXX8h))
 
