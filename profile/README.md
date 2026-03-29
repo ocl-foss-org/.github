@@ -27,4 +27,4 @@ Open C++ Libraires.org (or just OCL) is maintained by people at @ne-foss-org (Ne
 
 - [https://github.com/ne-foss-org](https://github.com/ne-foss-org)
 
-###### Copyright (c) 2023-2026 Amlal El Mahrouss & Ne.org Authors, licensed under BSL 1.0
+###### Copyright (c) 2023-2026 Amlal El Mahrouss & Contributors, licensed under BSL 1.0.
