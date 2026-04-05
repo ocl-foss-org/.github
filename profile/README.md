@@ -22,6 +22,6 @@ Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate wit
 
 Open C++ Libraires.org (or just OCL) is maintained by people at @ne-foss-org (Ne.app). Follow us there too!
 
-- [https://github.com/ne-foss-org](https://github.com/ne-foss-org)
+- [https://github.com/ne-foss](https://github.com/ne-foss)
 
 ###### Copyright (c) 2023-2026 Amlal El Mahrouss & Contributors, licensed under BSL 1.0.
